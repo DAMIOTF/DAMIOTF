@@ -102,20 +102,6 @@ Breaking complex problems into smaller pieces and figuring out how the hell they
   </tr>
 </table>
 
----
-
-## 🌐 Find Me
-
-<p align="center">
-  <a href="https://www.dmtf.ovh">
-    <img src="https://img.shields.io/badge/Portfolio-dmtf.ovh-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/DAMIOTF">
-    <img src="https://img.shields.io/badge/GitHub-DAMIOTF-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<br>
 
 <p align="center">
   <sub>Designed & built by DAMIOTF</sub>
