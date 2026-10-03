@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">✨ DAMIOTF ✨</h1>
 
-<!--
-**DAMIOTF/DAMIOTF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.dmtf.ovh">🌐 www.dmtf.ovh</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+`React.js` · `Tailwind CSS` · `JavaScript (ES6+)` · `TypeScript` · `Node.js` · `Express.js` · `REST API` · `PostgreSQL` · `SQL` · `Microsoft SQL Server` · `Prisma` · `Zustand` · `Docker` · `Git` · `GitHub` · `Linux`
+
+## 🎨 Web Design
+
+`Figma` · `UI Design` · `Wireframing` · `Prototyping` · `Responsive Design` · `Design Systems`
+
+## 🧠 Core Strengths
+
+`Problem Solving` · `Analytical Thinking` · `Fast Learning` · `Debugging` · `Clean Code` · `System Design`
