@@ -5,7 +5,7 @@
     Hi! My name is <b>Damian Marciniak</b>. Thank You for taking the time to view my GitHub Profile! :smile: 
 </div>
 
-<h2> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&amp;rid=giphy.gif" width="100px"></h2>
+<h2> About Me</h2>
 <ul>
 <li>
 <p>🔭 I’m currently working on <b>AMPH - Arch Meta Package Harmonizer</b></p>
@@ -24,7 +24,7 @@
 </li>
 </ul>
 
-<h2> Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
+<h2> Tech Stack </h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <!-- Generates a beautiful grid of your skills -->
