@@ -9,6 +9,7 @@
 <ul>
 <li>
 <p>🔭 I’m currently working on <b>AMPH - Arch Meta Package Harmonizer</b></p>
+<img src="https://raw.githubusercontent.com/DAMIOTF/Arch-Meta-Package-Harmonizer/main/img/1.jpg" alt="dashboard" width="70%" />
 </li>
 <li>
 <p>🌱 I’m currently expanding my knowledge in <b>Rust, Advanced Architecture & AI</b></p>
